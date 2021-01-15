@@ -1,25 +1,28 @@
+
+                
 # LERN
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cristianmontenegrop/LERN)
+[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](https://lern-demo.herokuapp.com/)
 
-### _A full MERN stack, open source education platform for taking and teaching online courses._
+## Table of Contents 
 
-## Deployed URL: https://lern-demo.herokuapp.com/
+* [Demonstration](#Demonstration)
+* [Description](#Description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Questions](#questions)
+* [Contributing](#contributing)
+* [Developer Team](#developers)
+* [Future](#future)
+* [License](#license)
 
-![GitHub License](https://img.shields.io/badge/License-MIT-orange)
+## Demonstration
 
-## Table of Contents
-
-- [Description](#description)
-- [Technologies](#technologies)
-- [Demonstration](#demonstration)
-- [Future](#future)
-- [Developer Team](#developers)
+[![Foo](https://media.giphy.com/media/kDa16MsN0LF9WiupyO/giphy.gif)](https://lern-demo.herokuapp.com/) 
 
 ## Description
 
 Users of LERN are able to create and view educational courses created by fellow LERNers. Register for free, teach a course,
-and/or learn more about subjects such as Business & Finance, Nature, History, and much more. LERN was a collaborative
-project by a team of full stack developers graduating from UW's Full Stack Coding Bootcamp. The website utilizes Create-React-App,
-React Hooks, MVC design pattern, CRUD operations for database driven content, and many more node packages.
 
 ## Technologies
 
@@ -35,11 +38,29 @@ React Hooks, MVC design pattern, CRUD operations for database driven content, an
 - Nodemon
 - Travis CLI
 - Heroku
+              
+## Installation 
+ To install necessary dependencies, run the following commands: 
+ 'npm i'
 
-## Demonstration
+## Usage 
+execute local version: 'npm start', create build for production: 'npm build'                    
 
-![Application Demo](https://media.giphy.com/media/kDa16MsN0LF9WiupyO/giphy.gif)
+undefined
 
+## Contributing 
+If you wish to contribute in any way, please slack me here: https://join.slack.com/t/newworkspace-dfn1975/shared_invite/zt-k727lmi9-y4XTpsjANSSib4DbZaF~pA 
+
+## Questions 
+ If you have any questions slack me here: https://join.slack.com/t/newworkspace-dfn1975/shared_invite/zt-k727lmi9-y4XTpsjANSSib4DbZaF~pA
+
+## Developers
+
+https://github.com/thedanitor  
+https://github.com/jaredhennessy  
+https://github.com/cbragg9  
+https://github.com/cristianmontenegrop
+                                     
 ## Future
 
 Additional features/ technologies for future direction of the web app:
@@ -52,9 +73,7 @@ Additional features/ technologies for future direction of the web app:
 - Additional course and user statistics
 - Donate to fellow LERNers
 
-## Developers
+## License
 
-https://github.com/thedanitor  
-https://github.com/jaredhennessy  
-https://github.com/cbragg9  
-https://github.com/cristianmontenegrop
+This project is licensed under the MIT license.
+
