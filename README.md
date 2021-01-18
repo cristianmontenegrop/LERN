@@ -23,6 +23,9 @@
 ## Description
 
 Users of LERN are able to create and view educational courses created by fellow LERNers. Register for free, teach a course,
+and/or learn more about subjects such as Business & Finance, Nature, History, and much more. LERN was a collaborative
+project by a team of full stack developers graduating from UW's Full Stack Coding Bootcamp. The website utilizes Create-React-App,
+React Hooks, MVC design pattern, CRUD operations for database driven content, and many more node packages.
 
 ## Technologies
 
